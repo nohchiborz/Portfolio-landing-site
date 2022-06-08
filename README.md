@@ -1,5 +1,5 @@
 # Portfolio-landing-site
-Figma design author https://www.figma.com/@creator_abhiraj
+Design author - https://www.figma.com/@creator_abhiraj
 
 
-https://nohchiborz.github.io/Portfolio-landing-site/
+View template - https://nohchiborz.github.io/Portfolio-landing-site/
